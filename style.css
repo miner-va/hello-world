@@ -1,15 +1,17 @@
-.center {
-  with: 100%;
-  height: 100%;
-  display: flex row nowrap;
-  flex-flow: row rowrap;
-  align-items: center;
-  justify-content: center;
+.center{
+ witdth: 100%;
+ height: 100%;
+ display: flex;
+  flex-flow:row nowrap;
+ aling-items: center;
+ justify-content: center;
 }
-html, body {
-    margin: 0; 
-    pathing: 0;
-
-  .msg {
-      font-size: 64px;
+  html,body{
+    margin:0;
+    padding:0;
+   height:100%
   }
+.msg{
+  font-size:64px;
+}
+      
