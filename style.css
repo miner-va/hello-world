@@ -10,8 +10,9 @@
     margin:0;
     padding:0;
    height:100%
+   backgroud-color: pink;
   }
 .msg{
-  font-size:64px;
+  font-size:256px;
 }
       
